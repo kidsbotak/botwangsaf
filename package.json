@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot",
+  "name": "CcaBotz",
   "version": "0.0.7",
   "description": "WhatsApp bot",
   "zeeone": "zeeone.js",
@@ -51,7 +51,7 @@
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "kidscaca",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc"
